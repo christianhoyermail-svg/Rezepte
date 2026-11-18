@@ -59,4 +59,3 @@ In Cookidoo „Rezept erstellen“ öffnen, dann in der App kopieren und in das 
 - **Kopier-Symbol** neben „Zutaten“ bzw. „Zubereitung“: der ganze Abschnitt
 - **Antippen einer Zeile**: genau diese Zutat bzw. diesen Schritt (für die einzelnen Schritt-Felder in Cookidoo)
 - **Kopier-Symbol in der Seitenleiste** oder **📋 Ganzes Rezept als Text**: alles auf einmal, z. B. zum Teilen
-
